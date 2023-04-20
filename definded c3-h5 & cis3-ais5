@@ -1,0 +1,58 @@
+/*
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░████░░░░░█░░░░░░░░░░░░░░░░░░░██░░░██░░░░
+░░░░░░░█░███░███░███░███░█░█░░░░░██░░░██░░░░
+░░░░█░░█░█░█░█░█░█░█░█░█░█░█░░░░░██░░░██░░░░
+░░░░████░███░█░█░█░█░█░█░███░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░█░░░███████████░░
+░░░░████████████████████████░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+*/
+
+//---GANZTONSCHRITTE---//
+
+#define c3 7634
+#define d3 6802
+#define e3 6060
+#define f3 5730
+#define g3 5102
+#define a3 4546
+#define h3 4066
+
+#define c4 3817
+#define d4 3401
+#define e4 3030
+#define f4 2865
+#define g4 2551
+#define a4 2273
+#define h4 2033
+
+#define c5 1912
+#define d5 1703
+#define e5 1517
+#define f5 1432
+#define g5 1276
+#define a5 1136
+#define h5 1012
+
+//---HALBTONSCHRITTE---//
+
+#define cis3 7220
+#define dis3 6430
+#define fis3 5406
+#define gis3 4820
+#define ais3 4292
+
+#define cis4 3610
+#define dis4 3215
+#define fis4 2703
+#define gis4 2410
+#define ais4 2146
+
+#define cis5 1805
+#define dis5 1608
+#define fis5 1352
+#define gis5 1205
+#define ais5 1073 
+
+#define pause 1
